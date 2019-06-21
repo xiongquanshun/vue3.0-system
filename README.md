@@ -1,6 +1,6 @@
 
 本项目基于vue-cli3构建
-基于Vue.js + Element UI 的后台管理系统解决方案。[demo地址](https://xiongquanshun.github.io/vue3.0-system/dist/index.html)
+基于Vue.js + Element UI 的后台管理系统解决方案。[demo](https://xiongquanshun.github.io/vue3.0-system/dist/index.html)
 ## 功能 ##
 - [x] Element UI
 - [x] 登录/注销
