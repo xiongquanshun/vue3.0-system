@@ -13,6 +13,9 @@
 
 ## 安装步骤 ##
 ```
+//安装依赖
+npm install
+
 // 开启服务器
 npm run dev or npm run serve
 
